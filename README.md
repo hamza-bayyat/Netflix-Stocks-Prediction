@@ -1,4 +1,4 @@
-# Netflix-stocks-prediction
+# Netflix-stock-prediction
 A comparative study predicting the stock market is famously difficult, but deep learning offers powerful tools to capture the hidden patterns in temporal data. This project explores the effectiveness of three different neural network architectures—ESN, LSTM, and Bi-LSTM—in forecasting Netflix ($NFLX$) stock prices using a decade of historical data.
 
 📊 Dataset Overview: The dataset contains Netflix stock prices spanning from 2014 to 2023. To provide the models with more context than just raw prices, several technical indicators were calculated and included:
